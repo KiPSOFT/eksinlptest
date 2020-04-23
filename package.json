@@ -1,0 +1,24 @@
+{
+  "name": "eksinlptest",
+  "version": "1.0.0",
+  "description": "Ek$i başlıklarını nlp kütüphanesiyle modellemesinin çıkarılması testi.",
+  "main": "nlptest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiPSOFT/eksinlptest.git"
+  },
+  "keywords": [
+    "ekşisözlük",
+    "nlp",
+    "nodejs"
+  ],
+  "author": "Serkan KOCAMAN aka KiPSOFT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiPSOFT/eksinlptest/issues"
+  },
+  "homepage": "https://github.com/KiPSOFT/eksinlptest#readme"
+}
